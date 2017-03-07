@@ -1,6 +1,6 @@
 <?php
 /*
-*	Plugin Name: Taboola Widget by SoftSource
+*	Plugin Name: Softsource Taboola Widget
 *	Description: Show Taboola ADs on your Sidebar/Widget Areas. In this version you have, you can only show simple {Below Article Thumbnails} ADs only.
 *	Author: Atiq Ur Rehman
 *	Version: 1.0
